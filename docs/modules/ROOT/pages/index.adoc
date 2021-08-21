@@ -1,0 +1,12 @@
+= rtp-karaoke
+
+https://rtp-karaoke.vercel.app/[**rtp-karaoke**] is a simple realtime karaoke overlay for OBS. It uses https://yjs.dev/[Yjs] and https://github.com/yjs/y-webrtc[WebRTC] to keep all clients in sync with each other.
+
+== How to use
+
+. Go to https://rtp-karaoke.vercel.app/[] with your browser.
+. Create a room with a unique name.
+. Send the page to your phone or tablet to control the overlay more easily.
+. Put the *OBS URL* into an OBS browser source to show the overlay on your stream.
+. Click the edit button at the top right to add lyrics.
+. Swipe on a line of lyrics to highlight it on the overlay.
